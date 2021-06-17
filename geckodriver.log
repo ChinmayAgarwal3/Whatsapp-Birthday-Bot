@@ -1,0 +1,9 @@
+1623918728328	geckodriver	INFO	Listening on 127.0.0.1:57735
+1623918728342	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilet82dCh"
+1623918729530	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilet82dCh/search.json.mozlz4", (void 0)))
+1623918732391	Marionette	INFO	Listening on port 43963
+1623918732513	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.3df7948c21bd43e94300.js, line 19: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.3df7948c21bd43e94300.js, line 19: unreachable code after return statement
+1623918962283	Marionette	INFO	Stopped listening on port 43963
